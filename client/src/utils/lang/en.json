@@ -1,0 +1,10 @@
+{
+  "language": {
+    "en": "English",
+    "ja": "Japanese",
+    "vn": "Vietnamese"
+  },
+  "string":{
+    "loadding" : "Loadding...."
+  }
+}

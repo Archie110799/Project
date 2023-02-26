@@ -1,0 +1,10 @@
+{
+  "language": {
+    "en": "Tiếng Anh",
+    "ja": "Tiếng Nhật",
+    "vn": "Tiếng Việt"
+  },
+  "string":{
+    "loadding" : "Đang tải..."
+  }
+}
